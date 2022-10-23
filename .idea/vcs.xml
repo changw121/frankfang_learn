@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ajax_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/canvas_demo_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cv_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dom_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dom_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kuayu_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nav_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/node_demo_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/static_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/static_server_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue-demo-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue-demo-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webpack-demo-1" vcs="Git" />
+  </component>
+</project>
